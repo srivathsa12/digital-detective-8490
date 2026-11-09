@@ -10,7 +10,7 @@ I used mkdir -p to create the folders, touch to create the empty files, and ls -
 
 ## My understanding
 
-My main repository is called digital-detective-8490. Inside it there are folders, and each one has its own README file. The structure is organised by mission so that the work can be reviewed clearly and efficiently.
+I've understood how the repo works and how to create the nested folder. How to track the errors during the process.
 
 ## Difficulties faced
 
