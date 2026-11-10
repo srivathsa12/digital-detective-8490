@@ -25,13 +25,27 @@ for copying the files, the command used is cp and for the moving the files it is
 
 ### Flags and pipes
 Normal listing vs detailed listing:
+ls only shows the names of the files and folders. ls -l shows one item per line with the permissions, owner, size and date.
+
+Comparing ls -l and ls -lah:
+ls -lah shows everything that ls -l shows, but with two more things. The a flag shows hidden files too, the ones that start with a dot. I could see .git and .DS_Store, which ls -l did not show. The h flag makes the sizes easy to read, like 2.2K instead of 2228.
 
 What the pipe symbol does:
 It sends the previous output as an input for the second in the piping.
 
+### Package managers
+Command: brew --version
+Output: Homebrew 7.0.12
+
+Command: brew list
+Output: A list of 27 packages that are installed with Homebrew on my Mac. For example git, ffmpeg, uv and cowsay.
+
+What a package manager is and why it is useful:
+A package manager is a tool that installs, updates and removes software from the Terminal with one command. I don't have to search for a website, download a file and install it by clicking. It also installs the other things the software needs, and it keeps a list of what is installed. Homebrew is the package manager I used on my Mac.
+
 ## Commands used
 
-These are rhe commands I used in this mission: pwd, ls, ls -l, cd, mkdir, touch, cp, mv, cat. 
+These are the commands I used in this mission: pwd, ls, ls -l, ls -lah, cd, mkdir, touch, cp, mv, cat, brew --version, brew list. 
 
 ## My understanding
 
@@ -41,6 +55,9 @@ I got that how to use this commands, and how they work and useful in our daily t
 ## Difficulties faced
 
 Everyhting went smooth, no onstacles occured in between the progress.
+
+## How I resolved them
+Not applicable
 
 ## Evidence
 
