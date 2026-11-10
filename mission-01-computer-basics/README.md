@@ -6,7 +6,7 @@ Input is gennerally given through the pyhsical devices such as keyboard, mouse, 
 ## Work completed
 
 ### IPOS for one activity
-Activity I chose: 
+Activity I chose: Recording my voice and playing it back on my MacBook
 
 | Stage | What happens in my example? | Hardware / component |
 |---|---|---|
@@ -20,12 +20,12 @@ How the activity moves from input to output and storage: The microphone captures
 ### Hardware and software
 | Item / software name | Hardware or software? | Software type (if applicable) | Purpose |
 |---|---|---|---|
-|Mouse |Hardware | Not applicable| Used to point at and click items on the screen|
-|Monitor | 	Hardware|	Not applicable|Displays what the computer is doing |
-|Printer| Hardware| Not applicable| Prints documents onto paper |
-Microsoft Word|Software|Application	Used to write and format documents|
-|Windows| Software |Operating system| Manages the hardware and runs other programs |
-|Disk cleanup tool|Software	|Utility|Removes unneeded files to free up space|
+| Trackpad | Hardware | Not applicable | Used to point at and click items on the screen |
+| Built-in display | Hardware | Not applicable | Shows what the computer is doing |
+| Keyboard | Hardware | Not applicable | Used to type text and commands |
+| Visual Studio Code | Software | Application | Used to write and edit files like README |
+| macOS | Software | Operating system | Manages the hardware and runs other programs |
+| Disk Utility | Software | Utility | Checks and manages the disk of the Mac |
 
 ### Computer systems around me
 | System | Main purpose | One input | One output |
