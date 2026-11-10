@@ -61,3 +61,4 @@ I researched and talked with my friends how exactly this commands and why we're 
 
 ## Commit details
 
+The commit details were Document operating system and file management and again found the small gaps in readme. Updated it and committed and pushed to the Github.
