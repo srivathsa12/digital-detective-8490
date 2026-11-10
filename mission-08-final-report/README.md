@@ -25,7 +25,7 @@ Every mission README has the required sections: done
 Every mission has its own commit and is pushed: done
 number_converter.py runs with three test values: done (I tried 10, 255 and 65. It gave 1010 and A, 11111111 and FF, 1000001 and 41)
 Branch and Pull Request are visible on GitHub: done
-Personal information removed from screenshots and outputs: done. My Mac username and computer name were showing in the screenshots of mission 2, 3 and 7 and in the Mission 3 README, so I covered them in the images and changed the text. The 8.8.8.8 address is Google's public DNS and the IP of example.com is public, so I left them. I checked all three images again after covering the names.
+Personal information removed from screenshots and outputs: done. My Mac username and computer name were showing in the screenshots of mission 2, 3 and 7 and in the Mission 3 README, so I covered them in the images and changed the text. The 8.8.8.8 address is Google's public DNS.
 Repository is public and the URL works: done
 
 ## Commands used
@@ -40,7 +40,7 @@ Repository is public and the URL works: done
 This assignment taught me how a computer works step by step. Input goes in, the processor works on it, memory and storage keep it, and then we get output. I learned that the Terminal lets me control the computer with commands instead of clicking, like ls, cd, cp and mv. I also learned that the operating system looks after the files, the programs running and the permissions. Python programs are run by an interpreter, and computers store numbers and text as binary, so I converted numbers to binary and hex by hand and then with a program. Git and GitHub help me save my work in small commits and keep a history, and a branch with a Pull Request lets me change things safely before merging. In networking I learned that a website name is changed to an IP address by DNS, and then my computer talks to the server over the internet.
 
 ## Difficulties faced
-I made a typing mistake in the Terminal (unmane instead of uname) and got a zsh error. My top command with a pipe also failed. I did not know the Python functions for binary and hex at first, and I mixed up the order of remainders. My first push on GitHub was rejected. In networking I mixed up LAN, MAN and WAN and did not understand ping at first. At the end I also found that my screenshots showed my computer name and username.
+I made a typing mistake in the Terminal unmane instead of uname and got a zsh error. My top command with a pipe also failed. I did not know the Python functions for binary and hex at first, and I mixed up the order of remainders. My first push on GitHub was rejected. In networking I mixed up LAN, MAN and WAN and did not understand ping at first. At the end I also found that my screenshots showed my computer name and username.
 
 ## How I resolved them
 I read the error messages and typed the commands again correctly. For the rejected push I pulled the latest changes and pushed again. I practised the Python functions in the terminal and checked them against my manual working. I asked my friends and seniors and searched online to understand the networking commands. I covered the computer name and username in the three screenshots with grey boxes and changed the Mission 3 README text.
