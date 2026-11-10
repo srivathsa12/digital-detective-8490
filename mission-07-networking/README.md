@@ -55,7 +55,8 @@ I did not understand the ping command at first. I forgot some concepts like WAN 
 I took help from AI, my friend and my seniors. They explained the commands and the difference between LAN, MAN and WAN. I also ran the commands myself to understand the output.
 
 ## Evidence
-mission-07-networking/README.md
+
+![ping and nslookup output](image.png)
 
 ## Commit details
 Commit message: Explain networking concepts and website communication. Pushed to GitHub.
