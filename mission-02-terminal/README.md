@@ -1,8 +1,5 @@
 # Mission 2 - Terminal
 
-## Objective
-
-
 ## Work completed
 
 ### Basic Terminal operations
