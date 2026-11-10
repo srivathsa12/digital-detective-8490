@@ -15,3 +15,9 @@ This repository contains my work for the Diwali Independent Learning Assignment 
 
 ## How this project is organised
 Each mission has its own folder with its own README. Every mission was completed, documented and committed separately.
+
+## My Learning
+- A computer works with input, process, storage and output.
+- The Terminal lets me move around and manage files using commands.
+- Computers use binary (0s and 1s) to store data.
+- Git saves the history of my work.
