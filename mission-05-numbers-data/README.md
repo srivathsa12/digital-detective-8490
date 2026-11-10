@@ -60,7 +60,8 @@ I searched on google and asked ai how these functions work, then tried them myse
 
 ## Evidence
 
-![alt text](image.png)
+Files for this mission: `README.md` and `number_converter.py`
+
 
 ## Commit details
 Mission 5 README and number_converter.py committed to the repo.
