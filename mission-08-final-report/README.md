@@ -5,7 +5,7 @@
 ### Final repository review
 What I checked: I opened every mission folder and made sure each one has a README with the sections it needs. I also checked that hello.py is in mission-04-programs and number_converter.py is in mission-05-numbers-data. I opened the repository link and Pull Request #1 without logging in and both opened, so the repository is public. Then I looked through all the README files and the three screenshots for private details.
 
-Corrections I made: I rewrite all the README file as i forgot to add the task/objective heading in few files. In few evidence images are not clear, so I retook them and replaced it.
+Corrections I made: I rewrite all the README file as i forgot to add the task/objective heading in few files. In few evidence images are not clear, so I retook them and replaced it. I also filled the missing parts in Mission 1 and Mission 2 (real Mac items, ls -lah and the package manager task), and I removed .DS_Store from the repo and added a .gitignore.
 
 ### Status of each mission
 | Mission | Status | Commit message |
