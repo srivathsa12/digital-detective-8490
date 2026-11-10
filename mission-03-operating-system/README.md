@@ -5,8 +5,8 @@
 ### Exploring the operating system
 | Information explored | Command | What it tells me | My observation (privacy-safe) |
 |---|---|---|---|
-| Operating system details | `uname -a` | Which OS and kernel is running, and the machine type | It printed Darwin, then a version number, then the chip type. The device name was Srivathsas-MacBook-Pro.local |
-| Current account identity | `whoami` | The name of the account I'm logged in as | It printed my account name, srivathsa |
+| Operating system details | `uname -a` | Which OS and kernel is running, and the machine type | It printed Darwin, then a version number, then the chip type. The device name was my Mac's name, which I hid for privacy |
+| Current account identity | `whoami` | The name of the account I'm logged in as | It printed my account name, which I hid for privacy |
 | Available and used storage | `df -h` | How much disk space is used and how much is free, in readable sizes | The main disk showed about half used and about half free |
 | System activity snapshot | `top -l 1 \| head -15` | A quick look at CPU use, memory use and running processes | The top lines showed CPU and memory usage and a list of busy processes |
 
@@ -21,7 +21,7 @@ Finder and Terminal.
 
 ### Paths and permissions
 Absolute path vs relative path, with one example of each from my folder:
-- Absolute path starts from the root `/`: `/Users/srivathsa/Desktop/digital-detective-8490/mission-03-operating-system/README.md`
+- Absolute path starts from the root `/`: `/Users/<my-username>/Desktop/digital-detective-8490/mission-03-operating-system/README.md`
 - Relative path starts from the current folder: `mission-03-operating-system/README.md`
 
 Permissions of one file in my practice area (owner can read, write, execute?):
