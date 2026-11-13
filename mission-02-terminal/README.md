@@ -1,5 +1,8 @@
 # Mission 2 - Terminal
 
+## Objective
+My task was to practise basic Terminal commands for moving around, creating and copying files, to try flags and pipes, and to explain what a package manager is.
+
 ## Work completed
 
 ### Basic Terminal operations

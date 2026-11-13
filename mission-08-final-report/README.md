@@ -1,5 +1,8 @@
 # Mission 8 - Final Report
 
+## Objective
+My task was to review the whole repository, update the root README, go through the final checklist and submit the repository link.
+
 ## Work completed
 
 ### Final repository review

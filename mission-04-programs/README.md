@@ -1,5 +1,8 @@
 # Mission 4 - Programs
 
+## Objective
+My task was to write and run a simple Python program, and to explain how a compiler and an interpreter are different.
+
 ## Work completed
 
 ### Running a Python program

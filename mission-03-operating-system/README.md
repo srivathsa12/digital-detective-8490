@@ -1,5 +1,8 @@
 # Mission 3 - Operating System
 
+## Objective
+My task was to use Terminal to look at my operating system, running processes, storage, paths and file permissions, and to explain what an operating system is responsible for.
+
 ## Work completed
 
 ### Exploring the operating system
