@@ -1,5 +1,8 @@
 # Mission 7 - Networking
 
+## Objective
+My task was to explain basic network ideas like LAN, WAN and DNS, try ping and nslookup in Terminal, and describe what happens when a website opens.
+
 ## Work completed
 
 ### Network concepts

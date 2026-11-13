@@ -1,5 +1,8 @@
 # Mission 5 - Numbers and Data
 
+## Objective
+My task was to convert numbers between decimal, binary and hexadecimal by hand, check them with Python, build a small converter program, and explain how text is stored.
+
 ## Work completed
 
 ### Manual conversions

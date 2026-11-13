@@ -1,5 +1,8 @@
 # Mission 6 - Git and GitHub
 
+## Objective
+My task was to practise the basic Git workflow, make a branch, open a Pull Request on GitHub, and explain how branches and Pull Requests help people work together.
+
 ## Work completed
 
 ### Basic Git workflow
