@@ -1,5 +1,8 @@
 # Mission 0 — Repository and workspace setup
 
+## Objective
+My task was to create a public GitHub repository with the right name, set up a folder for every mission, and push my first commit.
+
 ## Work completed
 Created the project folder digital-detective-8490 on my Desktop with 9 mission folders and an evidence folder. Each mission folder has its own README.md, mission-05-numbers-data also has number_converter.py, and evidence has a .gitkeep file. Wrote the root README with a mission index and pushed the work to GitHub.
 
