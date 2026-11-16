@@ -1,6 +1,6 @@
 # Mission 1 — Know your computer
 
-## Task / objective
+## Objective
 Input is gennerally given through the pyhsical devices such as keyboard, mouse, etc.. . It takes raw data and instruction and feed it to the computer. The Computer has it's main processing unit called Central Processing Unit(CPU) takes input and process it, perform operations and do the main work as a human brain. Output is result after the process in CPU. Storage is used to store data for the futture usage. Like RAM, ROM, SSD,..
 
 ## Work completed
