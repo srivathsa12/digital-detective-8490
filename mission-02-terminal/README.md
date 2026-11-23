@@ -25,6 +25,11 @@ For replacing I used echo > detination whereas for adding instead of '>' we'll u
 Copying vs moving a file:
 for copying the files, the command used is cp and for the moving the files it is mv comand. 
 
+What the current-directory display (pwd) tells me:
+It shows the full path of the folder I am working in, so I know where my commands will create or change files.
+
+Why a directory listing (ls) is useful:
+It shows what is inside a folder, so I can check that a file was created, copied or renamed before I go on.
 
 ### Flags and pipes
 Normal listing vs detailed listing:
@@ -57,10 +62,11 @@ I got that how to use this commands, and how they work and useful in our daily t
 
 ## Difficulties faced
 
-Everyhting went smooth, no onstacles occured in between the progress.
+Everything went smooth, no obstacles occured in between the progress.
 
 ## How I resolved them
-Not applicable
+
+Nothing to resolve, as I did'nt got any problmes. 
 
 ## Evidence
 

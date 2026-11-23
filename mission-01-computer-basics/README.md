@@ -23,8 +23,10 @@ How the activity moves from input to output and storage: The microphone captures
 | Trackpad | Hardware | Not applicable | Used to point at and click items on the screen |
 | Built-in display | Hardware | Not applicable | Shows what the computer is doing |
 | Keyboard | Hardware | Not applicable | Used to type text and commands |
-| Visual Studio Code | Software | Application | Used to write and edit files like README |
+| Built-in speakers | Hardware | Not applicable | Play sound from the computer |
 | macOS | Software | Operating system | Manages the hardware and runs other programs |
+| Visual Studio Code | Software | Application | Used to write and edit files like README |
+| Brave browser | Software | Application | Used to browse websites |
 | Disk Utility | Software | Utility | Checks and manages the disk of the Mac |
 
 ### Computer systems around me
