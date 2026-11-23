@@ -28,16 +28,16 @@ I also checked the remaining ones (int('1010', 2), int('1101', 2), int('A', 16))
 
 ### Number converter (number_converter.py)
 How the program works:
-It asks the user for a decimal number and then prints it in binary and in hexadecimal. I wrote the two conversion functions myself instead of using bin() and hex(), so I could see the method working.
+The program uses input() to ask the user for a decimal number. Then int() turns the typed text into a whole number. After that, bin() converts the number to binary and hex() converts it to hexadecimal, and the program prints both results.
 
 | Test number | Binary output | Hexadecimal output |
 |---|---|---|
-| 10 | 1010 | A |
-| 255 | 11111111 | FF |
-| 100 | 1100100 | 64 |
+| 10 | 0b1010 | 0xa |
+| 255 | 0b11111111 | 0xff |
+| 100 | 0b1100100 | 0x64 |
 
 What the binary and hexadecimal conversion functions do:
-to_binary keeps dividing the number by 2 and takes the remainder each time, and puts the new remainder in front. This is same as reading the remainders from the bottom up in my manual working. to_hex does the same thing but divides by 16, and it uses the string "0123456789ABCDEF" to change remainders 10 to 15 into A to F.
+bin() takes a whole number and gives back its binary form as text. The text starts with 0b, which only tells us that the number is in binary. hex() does the same thing for hexadecimal, and its text starts with 0x. These are the same answers I got by hand in my manual working, just done by Python.
 
 ### How text is stored
 ASCII code for uppercase A and lowercase a:
@@ -46,25 +46,5 @@ Uppercase A is 65 and lowercase a is 97 (I checked with ord('A') and ord('a') in
 Why a computer needs an encoding standard:
 A computer only stores numbers, so every letter needs a number. If each computer used its own numbers, a file from one computer would show wrong characters on another. With a standard like ASCII or Unicode everyone uses the same number for the same character.
 
-
-## Commands used
-- `python3`
-- `python3 number_converter.py`
-- `bin()`, `hex()`, `int(x, base)` and `ord()` inside Python
-
-## My understanding
-Computers store everything as binary. Hex is a shorter way to write binary because one hex digit is 4 bits. Now I can convert decimal, binary and hex by hand and check it with Python. Text is also stored as numbers, and the encoding standard decides which number is which character.
-
-## Difficulties faced
-I didn't know how to check binary and hex in the Python terminal at all. I had never used int(), bin(), hex() or ord() before, so I didn't know what to type or what the 0b and 0x in the answers meant. I also mixed up the order of the remainders in binary at first.
-
-## How I resolved them
-I searched on google and asked ai how these functions work, then tried them myself in the Python terminal until I got it. Now I know bin() gives binary, hex() gives hex, int('1F', 16) turns it back to decimal and ord('A') gives the ASCII number. I checked each answer with my manual working, and that's how I fixed the remainder order too.
-
-## Evidence
-
-Files for this mission: `README.md` and `number_converter.py`
-
-
-## Commit details
-Mission 5 README and number_converter.py committed to the repo.
+A character that is not in basic ASCII:
+The rupee sign ₹ is not in basic ASCII, because
