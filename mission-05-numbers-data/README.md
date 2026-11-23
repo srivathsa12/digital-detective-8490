@@ -27,7 +27,7 @@ My task was to convert numbers between decimal, binary and hexadecimal by hand, 
 I also checked the remaining ones (int('1010', 2), int('1101', 2), int('A', 16)) and they gave 10, 13 and 10. All matched.
 
 ### Number converter (number_converter.py)
-How the program works:
+
 The program uses input() to ask the user for a decimal number. Then int() turns the typed text into a whole number. After that, bin() converts the number to binary and hex() converts it to hexadecimal, and the program prints both results.
 
 | Test number | Binary output | Hexadecimal output |
@@ -36,12 +36,11 @@ The program uses input() to ask the user for a decimal number. Then int() turns 
 | 255 | 0b11111111 | 0xff |
 | 100 | 0b1100100 | 0x64 |
 
-What the binary and hexadecimal conversion functions do:
+
 bin() takes a whole number and gives back its binary form as text. The text starts with 0b, which only tells us that the number is in binary. hex() does the same thing for hexadecimal, and its text starts with 0x. These are the same answers I got by hand in my manual working, just done by Python.
 
 ### How text is stored
-ASCII code for uppercase A and lowercase a:
-Uppercase A is 65 and lowercase a is 97 (I checked with ord('A') and ord('a') in Python).
+ASCII code for uppercase A and lowercase a is Uppercase A is 65 and lowercase a is 97 (I checked with ord('A') and ord('a') in Python).
 
 Why a computer needs an encoding standard:
 A computer only stores numbers, so every letter needs a number. If each computer used its own numbers, a file from one computer would show wrong characters on another. With a standard like ASCII or Unicode everyone uses the same number for the same character.

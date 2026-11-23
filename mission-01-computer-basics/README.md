@@ -15,7 +15,7 @@ Activity I chose: Recording my voice and playing it back on my MacBook
 | Output | When I press play, the sound comes out| Speaker|
 | Storage | The recording is saved as an audio file so I can play it later| SSD|
 
-How the activity moves from input to output and storage: The microphone captures my voice as input. The CPU processes it by converting it to digital data. The file is saved to storage, and when I press play, the CPU reads it back and sends it to the speaker as output.
+The microphone captures my voice as input. The CPU processes it by converting it to digital data. The file is saved to storage, and when I press play, the CPU reads it back and sends it to the speaker as output.
 
 ### Hardware and software
 | Item / software name | Hardware or software? | Software type (if applicable) | Purpose |

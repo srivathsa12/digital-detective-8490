@@ -39,4 +39,4 @@ Each mission has its own folder with its own README. Every mission was completed
 5. The program prints the binary and hexadecimal results.
 
 ## What I learned
-Before this I only used the computer, I never thought about what happens inside. Now I know that data goes in, the computer works on it and then it shows the result. The hardest part for me was Git, because my push was rejected and I did not know why at first. Next time I will pull the latest changes before I push and I will check my screenshots before I upload them.
+Before this I only used the computer, I never thought about what happens inside. Now I know that data goes in, the computer works on it and then it shows the result. The hardest part for me was Git, because my push was rejected and I did not know why at first. Next in the mission-05 in the number converter function as in the first it didn;t seem well, then after some time i started to digest it. In the end, I've gone through each mission once again to check my understanding from it.

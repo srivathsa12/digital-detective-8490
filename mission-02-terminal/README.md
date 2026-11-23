@@ -66,7 +66,7 @@ Everything went smooth, no obstacles occured in between the progress.
 
 ## How I resolved them
 
-Nothing to resolve, as I did'nt got any problmes. 
+Nothing to resolve, as I did'nt got any problems. 
 
 ## Evidence
 
